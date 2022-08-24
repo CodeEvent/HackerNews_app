@@ -1,3 +1,3 @@
-Github 
+Firebase
 
-https://github.com/pythearn/HackerNews_app
+https://hacker-news-app-f72ad.web.app/
